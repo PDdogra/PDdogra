@@ -1,16 +1,47 @@
 ## Hi there 👋
 
-<!--
-**PDdogra/PDdogra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Pranav Dogra
 
-Here are some ideas to get you started:
+Cybersecurity Student | Learning by Building & Testing Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a cybersecurity student focused on understanding how systems break and how to make them more secure. I prefer hands-on learning through labs, projects, and real-world scenarios.
+
+---
+
+### 🧠 Currently Learning
+- Web application security (OWASP Top 10)
+- Basics of VAPT (manual testing + tools)
+- Networking fundamentals & traffic analysis
+- Linux for security workflows
+
+---
+
+### 🛠 Skills & Tools
+- **Languages:** Python (basic scripting), JavaScript (fundamentals)  
+- **Security Tools:** Burp Suite (basic), Wireshark, Nmap  
+- **Concepts:** HTTP, authentication, common web vulnerabilities  
+- **Other:** Git, Linux  
+
+---
+
+### 📌 Experience
+- SOC Intern @ RailTel  
+  - Exposure to monitoring alerts and basic incident workflows  
+  - Learned how security operations function in real environments  
+
+---
+
+### 🔍 What I’m Working On
+- Practicing vulnerabilities in labs (portswigger, CTF-style challenges)  
+- Building small security tools/scripts to understand concepts better  
+
+---
+
+### 🎯 Goal
+To become a strong security engineer with solid fundamentals in both **offensive and defensive security**.
+
+---
+
+### 📫 Reach Me
+- LinkedIn:  http://linkedin.com/in/pranav-dogra-02085025a
+- Email: pranavdogra20034@gmail.com
